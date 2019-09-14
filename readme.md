@@ -8,6 +8,14 @@ It includes create blog post, edit post, delete post, soft delete, upload image 
 
 The serach can be done bye using Categories or Tags whic are essential part of any Posts.
 
+## Admin Panel
+
+https://aqueous-badlands-70926.herokuapp.com/login
+
+email: test@test.com
+pass: 12345678
+
+
 ## Heroku Deployment
 
 I recently deployed this project on the heroku using its free service but the image upload doesnt work since it uses Heroku's filesystem, which is dyno-local and ephemeral. Any changes makd to it will be lost the next time each dyno restarts. This happens frequently (at least once per day).
