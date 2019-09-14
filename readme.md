@@ -8,9 +8,18 @@ It includes create blog post, edit post, delete post, soft delete, upload image 
 
 The serach can be done bye using Categories or Tags whic are essential part of any Posts.
 
+## Heroku Deployment
+
+I recently deployed this project on the heroku using its free service but the image upload doesnt work since it uses Heroku's filesystem is dyno-local and ephemeral. Any changes makd to it will be lost the next time each dyno restarts. This happens frequently (at least once per day).
+
+https://aqueous-badlands-70926.herokuapp.com/
+
 ## Screenshots
 
 <a href="http://imgbox.com/Eyi6MtiE" target="_blank"><img src="https://images2.imgbox.com/42/a1/Eyi6MtiE_o.png" alt="image host"/></a> <a href="http://imgbox.com/iMPOF9cS" target="_blank"><img src="https://images2.imgbox.com/e3/19/iMPOF9cS_o.png" alt="image host"/></a> <a href="http://imgbox.com/DDY7qh9w" target="_blank"><img src="https://images2.imgbox.com/59/16/DDY7qh9w_o.png" alt="image host"/></a> <a href="http://imgbox.com/GKI2QX9B" target="_blank"><img src="https://images2.imgbox.com/9f/18/GKI2QX9B_o.png" alt="image host"/></a> <a href="http://imgbox.com/3D7IxIvQ" target="_blank"><img src="https://images2.imgbox.com/0c/0b/3D7IxIvQ_o.png" alt="image host"/></a> <a href="http://imgbox.com/Eo00sVMO" target="_blank"><img src="https://images2.imgbox.com/86/58/Eo00sVMO_o.png" alt="image host"/></a> <a href="http://imgbox.com/l7SVv4Of" target="_blank"><img src="https://images2.imgbox.com/83/81/l7SVv4Of_o.png" alt="image host"/></a> <a href="http://imgbox.com/C5PrUErY" target="_blank"><img src="https://images2.imgbox.com/cb/d6/C5PrUErY_o.png" alt="image host"/></a> <a href="http://imgbox.com/5xZ2FVWh" target="_blank"><img src="https://images2.imgbox.com/b6/99/5xZ2FVWh_o.png" alt="image host"/></a> <a href="http://imgbox.com/Jzj02mp1" target="_blank"><img src="https://images2.imgbox.com/34/f2/Jzj02mp1_o.png" alt="image host"/></a>
+
+
+
 
 
 
