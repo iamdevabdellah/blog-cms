@@ -10,7 +10,7 @@ The serach can be done bye using Categories or Tags whic are essential part of a
 
 ## Heroku Deployment
 
-I recently deployed this project on the heroku using its free service but the image upload doesnt work since it uses Heroku's filesystem is dyno-local and ephemeral. Any changes makd to it will be lost the next time each dyno restarts. This happens frequently (at least once per day).
+I recently deployed this project on the heroku using its free service but the image upload doesnt work since it uses Heroku's filesystem, which is dyno-local and ephemeral. Any changes makd to it will be lost the next time each dyno restarts. This happens frequently (at least once per day).
 
 https://aqueous-badlands-70926.herokuapp.com/
 
